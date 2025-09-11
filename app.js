@@ -20,14 +20,14 @@ const els = {
 
 async function loadData() {
   try {
-    const res = await fetch('data/prices.json', { cache: 'no-store' });
+    const res = await fetch('prices.json', { cache: 'no-store' });
     const json = await res.json();
-    state.data = json;
+    state. = json;
     els.updatedAt.textContent = `Actualizado: ${json.updatedAt || '-'}`;
     refreshAll();
   } catch (e) {
     console.error('Error cargando datos', e);
-    els.updatedAt.textContent = 'No se pudo cargar data/prices.json';
+    els.updatedAt.textContent = 'No se pudo cargar prices.json';
   }
 }
 
