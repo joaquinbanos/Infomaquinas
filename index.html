@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>INFOMAQUINAS</title>
+    <link rel="icon" type="image/png" sizes="32x32" href="Logo.png">
+    <meta name="description" content="Guía de precios de maquinaria agrícola nueva y usada. Sembradoras, Pulverizadoras, Cosechadoras y Tractores." />
+    <link rel="stylesheet" href="styles.css" />
+    <link rel="stylesheet" href="prices.json" />
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="brand">
+        <span class="brand-light">INFO</span><span class="brand-bold">MAQUINAS</span>
+      </div>
+      <p class="tag">Guía de precios de maquinaria agrícola</span></p>
+    </header>
+
+    <main class="container">
+      <section class="controls">
+        <nav class="tabs" role="tablist" aria-label="Categorías">
+          <button class="tab active" data-category="Sembradoras">Sembradoras</button>
+          <button class="tab" data-category="Pulverizadoras">Pulverizadoras</button>
+          <button class="tab" data-category="Cosechadoras">Cosechadoras</button>
+          <button class="tab" data-category="Tractores">Tractores</button>
+        </nav>
+
+        <div class="filters">
+          <div class="filter-group">
+            <label for="brandSelect">Marca</label>
+            <select id="brandSelect">
+              <option value="">Todas</option>
+            </select>
+          </div>
+          <div class="filter-group">
+            <label for="modelSelect">Modelo</label>
+            <select id="modelSelect">
+              <option value="">Todos</option>
+            </select>
+          </div>
+          <div class="filter-group">
+            <label for="versionSelect">Versión</label>
+            <select id="versionSelect">
+              <option value="">Todas</option>
+            </select>
+          </div>
+        </div>
+      </section>
+
+      <section class="table-wrap">
+        <table id="results">
+          <thead>
+            <tr id="headerRow"></tr>
+          </thead>
+          <tbody></tbody>
+        </table>
+        <div class="empty" id="emptyState" hidden>Sin resultados para los filtros actuales.</div>
+      </section>
+
+      <section class="meta">
+        <div class="updated" id="updatedAt">Actualizado: -</div>
+      </section>
+      <p>Nota: Los precios estan en dólares sin IVA</p>
+    </main>
+
+    <footer class="site-footer">
+      <small>INFOMAQUINAS</small>
+    </footer>
+
+    <script src="app.js"></script>
+  </body>
+  </html>
+
