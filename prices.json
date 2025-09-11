@@ -1,0 +1,264 @@
+{
+  "updatedAt": "2025-09-07",
+  "currency": "USD",
+  "items": [
+    {
+      "category": "Tractores",
+      "brand": "AGCO Allis",
+      "series": "TRACTOR SERIE 6 - ARGENTINA",
+      "model": "109HP - 6.110 STANDARD 4x4",
+      "version": "S/CABINA",
+      "prices": { "0km": 0, "2024": null, "2023": null, "2022": null, "2021": null, "2020": null, "2019": null, "2018": null, "2017": null, "2016": null, "2015": 40000, "2014": 38800, "2013": 37600, "2012": 36500, "2011": 35400, "2010": 34400 }
+    },
+    {
+      "category": "Tractores",
+      "brand": "AGCO Allis",
+      "series": "TRACTOR SERIE 6 - ARGENTINA",
+      "model": "125HP - 6.125 STANDARD 4x4",
+      "version": "S/CABINA",
+      "prices": { "0km": 0, "2015": 45000, "2014": 43700, "2013": 42300, "2012": 41100, "2011": 39800, "2010": 38600 }
+    },
+
+    {
+      "category": "Tractores",
+      "brand": "John Deere",
+      "series": "Serie 6M",
+      "model": "6110M",
+      "version": "PowerQuad",
+      "prices": { "0km": 145000, "2024": 140000, "2023": 132000, "2022": 125000, "2021": 119000 }
+    },
+    {
+      "category": "Tractores",
+      "brand": "New Holland",
+      "series": "T7",
+      "model": "T7.210",
+      "version": "AutoCommand",
+      "prices": { "0km": null, "2024": 0, "2023": 0, "2022": 118000, "2021": 112000, "2020": 105000 }
+    },
+
+    {
+      "category": "Cosechadoras",
+      "brand": "Case IH",
+      "series": "Axial-Flow",
+      "model": "8250",
+      "version": "Rotor",
+      "prices": { "0km": 480000, "2024": 460000, "2023": 440000 }
+    },
+    {
+      "category": "Cosechadoras",
+      "brand": "John Deere",
+      "series": "S",
+      "model": "S670",
+      "version": "",
+      "prices": { "0km": null, "2015": 175000, "2014": 165000, "2013": 155000 }
+    },
+
+    {
+      "category": "Pulverizadoras",
+      "brand": "Metalfor",
+      "series": "7000",
+      "model": "7040",
+      "version": "Autopropulsada",
+      "prices": { "0km": null, "2020": 120000, "2019": 98000 }
+    },
+    {
+      "category": "Pulverizadoras",
+      "brand": "PLA",
+      "series": "MAP",
+      "model": "3240",
+      "version": "",
+      "prices": { "0km": 210000 }
+    },
+
+    {
+      "category": "Sembradoras",
+      "brand": "Agrometal",
+      "series": "TX Mega",
+      "model": "19",
+      "version": "Grano Fino",
+      "prices": { "0km": null, "2017": 65000 }
+    },
+    {
+      "category": "Sembradoras",
+      "brand": "Crucianelli",
+      "series": "Gringa",
+      "model": "2",
+      "version": "",
+      "prices": { "0km": 125000 }
+    },
+     {
+      "category": "Sembradoras",
+      "brand": "Crucianelli",
+      "model": "Gringa",
+      "version": "Plus",
+      "prices": {
+        "0km": 250000,
+        "2025": null,
+        "2024": 225000,
+        "2023": 202500,
+        "2022": 182250,
+        "2021": 164025,
+        "2020": 147622,
+        "2019": 132860,
+        "2018": 119574,
+        "2017": 107617,
+        "2016": 96855,
+        "2015": 87170,
+        "2014": 78453,
+        "2013": 70607,
+        "2012": 63547,
+        "2011": 57192,
+        "2010": 51473,
+        "2009": null,
+        "2008": null,
+        "2007": null,
+        "2006": null
+      }
+    },
+    {
+      "category": "Sembradoras",
+      "brand": "Agrometal",
+      "model": "TX",
+      "version": "Plus",
+      "prices": {
+        "0km": 220000,
+        "2025": null,
+        "2024": 198000,
+        "2023": 178200,
+        "2022": 160380,
+        "2021": 144342,
+        "2020": 129908,
+        "2019": 116917,
+        "2018": 105225,
+        "2017": 94703,
+        "2016": 85233,
+        "2015": 76709,
+        "2014": 69038,
+        "2013": 62134,
+        "2012": 55921,
+        "2011": 50329,
+        "2010": 45296,
+        "2009": null,
+        "2008": null,
+        "2007": null,
+        "2006": null
+      }
+    },
+    {
+      "category": "Sembradoras",
+      "brand": "Crucianelli",
+      "model": "Gringa",
+      "version": "Plus",
+      "prices": {
+        "0km": 250000,
+        "2025": null,
+        "2024": 225000,
+        "2023": 202500,
+        "2022": 182250,
+        "2021": 164025,
+        "2020": 147622,
+        "2019": 132860,
+        "2018": 119574,
+        "2017": 107617,
+        "2016": 96855,
+        "2015": 87170,
+        "2014": 78453,
+        "2013": 70607,
+        "2012": 63547,
+        "2011": 57192,
+        "2010": 51473,
+        "2009": null,
+        "2008": null,
+        "2007": null,
+        "2006": null
+      }
+    },
+    {
+      "category": "Sembradoras",
+      "brand": "Agrometal",
+      "model": "TX",
+      "version": "Plus",
+      "prices": {
+        "0km": 220000,
+        "2025": null,
+        "2024": 198000,
+        "2023": 178200,
+        "2022": 160380,
+        "2021": 144342,
+        "2020": 129908,
+        "2019": 116917,
+        "2018": 105225,
+        "2017": 94703,
+        "2016": 85233,
+        "2015": 76709,
+        "2014": 69038,
+        "2013": 62134,
+        "2012": 55921,
+        "2011": 50329,
+        "2010": 45296,
+        "2009": null,
+        "2008": null,
+        "2007": null,
+        "2006": null
+      }
+    },
+    {
+      "category": "Tractores",
+      "brand": "John Deere",
+      "model": "CX",
+      "version": "Full",
+      "prices": {
+        "0km": 400000,
+        "2025": null,
+        "2024": 360000,
+        "2023": 324000,
+        "2022": 291600,
+        "2021": 262440,
+        "2020": 236196,
+        "2019": 212576,
+        "2018": 191319,
+        "2017": 172187,
+        "2016": 154968,
+        "2015": 139471,
+        "2014": 125524,
+        "2013": 112972,
+        "2012": 101675,
+        "2011": 91507,
+        "2010": 82356,
+        "2009": null,
+        "2008": null,
+        "2007": null,
+        "2006": null
+      }
+    },
+    {
+      "category": "Cosechadoras",
+      "brand": "Don Roque",
+      "model": "Campo",
+      "version": "Prime",
+      "prices": {
+        "0km": 600000,
+        "2025": null,
+        "2024": 540000,
+        "2023": 486000,
+        "2022": 437400,
+        "2021": 393660,
+        "2020": 354294,
+        "2019": 318865,
+        "2018": 286978,
+        "2017": 258280,
+        "2016": 232452,
+        "2015": 209207,
+        "2014": 188286,
+        "2013": 169458,
+        "2012": 152512,
+        "2011": 137261,
+        "2010": 123535,
+        "2009": null,
+        "2008": null,
+        "2007": null,
+        "2006": null
+      }
+    }
+  ]
+}
